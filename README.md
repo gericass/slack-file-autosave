@@ -1,11 +1,11 @@
-# slack-filesave
+# slack-file-autosave
 
 ## Install
 
 require Golang environment and setup GOPATH.
 
 ```
-$ go get github.com/hashibiroko/slack-filesave
+$ go get github.com/gericass/slack-file-autosave
 ```
 
 ## Usage
